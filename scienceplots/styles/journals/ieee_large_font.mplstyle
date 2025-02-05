@@ -10,6 +10,6 @@ figure.figsize : 3.3, 2.5
 figure.dpi : 600
 
 # Font sizes
-font.size : 8
+font.size : 12
 font.family : serif
 font.serif : Times
